@@ -2,17 +2,15 @@
 title: "My first blog post on Github"
 date: 2025-02-19
 ---
-## First blog post on Github
-
 I'm currently doing GitHub skill courses to get familiar with the platform.
 
 #### First day on GitHub
 
 - [x] Introduction to GitHub
 - [x] Communicate using Markdown
-- [ ] GitHub Pages
+- [x] GitHub Pages
 
-I've almost finish First day on GitHub skills course !
+I've finish First day on GitHub skills course !
 
 ![Squirtle gang's dancing](https://www.pokepedia.fr/images/b/bd/%C3%89pisode_EP147.png)
 
